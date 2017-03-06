@@ -1,5 +1,8 @@
 /**
- * 点击组件
+ * @desc 点击组件
+ * @author Bin Chen
+ * @date 2017-03-06
+ * 
  */
 
 import React, { Component } from 'react';

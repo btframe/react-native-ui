@@ -1,0 +1,37 @@
+{
+  "name": "react-native-ui",
+  "version": "0.0.1",
+  "description": "",
+  "main": "react-native-ui.js",
+  "scripts": {
+    "lint": "eslint -c .eslintrc . --ignore-path .git",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btframe/react-native-ui.git"
+  },
+  "keywords": [
+    "react-native-component",
+    "react-component",
+    "react-native",
+    "ios",
+    "react-native-ui"
+  ],
+  "author": "Bin Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btframe/react-native-ui/issues"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.20.0"
+  },
+  "homepage": "https://github.com/btframe/react-native-ui#readme",
+  "dependencies": {
+    "react-timer-mixin": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.1.1"
+  }
+}
